@@ -62,13 +62,11 @@ developer = {
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 **Frameworks & AI**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![API Development](https://img.shields.io/badge/API+Development-555555?style=for-the-badge) ![Frontend Development](https://img.shields.io/badge/Frontend+Development-555555?style=for-the-badge) ![Agile Methodology](https://img.shields.io/badge/Agile+Methodology-555555?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![API Development](https://img.shields.io/badge/API+Development-555555?style=for-the-badge) ![Frontend Development](https://img.shields.io/badge/Frontend+Development-555555?style=for-the-badge) ![Agile Methodology](https://img.shields.io/badge/Agile+Methodology-555555?style=for-the-badge)
 
 
 
@@ -88,29 +86,22 @@ developer = {
 
 
 
-**AI Engineer Intern** @ **Upstride** &nbsp;|&nbsp; *Present*
-
-- Architecting multi-agent AI systems with CrewAI across 5+ specialized agents — 60% faster workflows
-
-- Building FastAPI microservices processing 100+ automated document requests daily
-
-- Developing LLM-powered automation pipelines eliminating 90% of manual HR effort
 
 
 
 **Software Developer** @ **Larsen & Toubro Limited(L&T)** &nbsp;|&nbsp; *April 2026 – July 2026*
 
-- Developed and  APIs for backend integration using SQL and database management, ensuring efficient application functionality.
-
-- Optimized API performance through rigorous testing and debugging, enhancing system reliability.
-
-- Collaborated with cross-functional teams in an agile environment, contributing to enterprise-level application support.
+- Developed dynamic and responsive user interfaces using Angular.
+- Integrated RESTful APIs with frontend applications for real-time data processing.
+- Performed SQL database operations, including querying, updating, and managing data.
+- Participated in testing, debugging, and performance optimization.
+- Collaborated with developers and stakeholders using Agile methodologie
 
 
 
 **Frontend & AI** @ **Upstride** &nbsp;|&nbsp; *Feb 2026 – April 2026*
 
-- Engineered responsive banking web pages using React.js, HTML, CSS, and JavaScript, enhancing user engagement.
+- Engineered responsive banking web pages using  HTML, CSS, and JavaScript, enhancing user engagement.
 
 - Built reusable UI components and integrated APIs, significantly improving frontend performance and user experience.
 
@@ -132,7 +123,7 @@ developer = {
 
 #### 🔹 AI Diabetes Prediction
 
-> Developed scalable banking web applications using React.js, HTML, CSS, and JavaScript.
+> Built an AI-powered Diabetes Prediction application that analyzes patient health parameters such as glucose level, BMI, age, and blood pressure to provide early diabetes risk assessment using Machine Learning algorithms.
 
 
 
@@ -142,7 +133,7 @@ developer = {
 
 #### 🔹 Agile management system
 
-> Created an Agile Project Management System leveraging Python, MySQL, HTML, CSS, and REST APIs for enterprise applications.
+> Developed an Agile Management System using Python, MySQL, HTML, CSS, and JavaScript to streamline project planning, task tracking, sprint management, and team collaboration. The system improves workflow visibility and project efficiency through real-time updates and reporting.
 
 
 
@@ -156,33 +147,10 @@ developer = {
 
 
 
-## 📊 GitHub Stats
 
 
 
-<div align="center">
 
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitHub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-
-
-</div>
-
-
-
-<div align="center">
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GitHub&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
-
-</div>
 
 
 
@@ -190,19 +158,7 @@ developer = {
 
 
 
-## 🏆 GitHub Trophies
 
-
-
-<div align="center">
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GitHub&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-</div>
 
 
 
@@ -232,7 +188,7 @@ developer = {
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://LinkedIn) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Gmail) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GitHub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://LinkedIn](https://www.linkedin.com/in/maddipati-v-s-bhargava-deekshitulu-3a1010339/)) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargavmaddipati2004@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/GitHub](https://github.com/bhargav94906))
 
 
 
