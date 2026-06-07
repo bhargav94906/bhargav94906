@@ -2,12 +2,6 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+MADDIPATI+👋;engineering+🚀;Welcome+to+my+GitHub!" alt="Typing SVG" />
-
-
-
-<br/>
-
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GitHub&color=6C63FF&style=for-the-badge)
@@ -166,12 +160,6 @@ developer = {
 
 
 
-## 📈 Contribution Graph
-
-
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GitHub&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 ---
@@ -187,8 +175,7 @@ developer = {
 <div align="center">
 
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://LinkedIn](https://www.linkedin.com/in/maddipati-v-s-bhargava-deekshitulu-3a1010339/)) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargavmaddipati2004@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/GitHub](https://github.com/bhargav94906))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maddipati-v-s-bhargava-deekshitulu-3a1010339/)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargavmaddipati2004@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/GitHub](https://github.com/bhargav94906))
 
 
 
